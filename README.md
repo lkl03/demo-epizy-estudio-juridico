@@ -1,2 +1,7 @@
-# demo-epizy-estudio-juridico
-Demo web para ÉPIZY - Estudio Jurídico — diseñada por eterlab.
+# ÉPIZY - Estudio Jurídico
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
